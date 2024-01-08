@@ -1,0 +1,8 @@
+#root {
+  text-align: center;
+}
+
+.centrar {
+  display: flex;
+  justify-content: center;
+}
